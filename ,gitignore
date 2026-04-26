@@ -1,0 +1,7 @@
+node_modules/
+*.scss
+bootstrap-resources/
+project/
+project1/
+package.json
+package-lock.json
